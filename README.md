@@ -1,15 +1,9 @@
-# Boot2docker Vagrant Box
+# PORTABLE DEVELOPMENT ENVIRONMENT
 
-Boot2docker Vagrant box for optimized Docker and Docker Compose use on Mac and Windows.
+This started as a fork of Boot2docker Vagrant. It is intended to be my own personal development environment used for writing a clojure backed by datomic PRO free application in emacs on Windows 10, OSX, and docker.
 
+[blinkreaction/Boot2dockerVagrant](https://github.com/blinkreaction/boot2docker-vagrant)
 
-## What is this?
-
-This is a temporary solution to achieve better performance with synced folders and docker data volumes on Mac and Windows.
-
-The stock boot2docker/docker-machine mounts host volumes via VirtualBox Guest Additions (vboxsf) mode, which is is terribly slow. Much better performance can be achieved with **nfs** (Mac), **smb** (Windows) or **rsync** (Mac and Windows).
-
-<a name="requirements"></a>
 ## Prerequisites
 1. [VirtualBox](https://www.virtualbox.org/) 5.1.x
 2. [Vagrant](https://www.vagrantup.com/) 1.8.5+
@@ -64,7 +58,11 @@ Use these steps if you have VirtualBox and/or Vagrant already installed or prefe
     ```    
     docker version
     ```
+4. Install tmux, emacs, git, wget, curl, jre, or any other tool I use in pact, brew, or apt-get.
 
+5. Install stow
+
+6. cd dotfiles && stow clj emacs zsh PRIVATE -t $HOME
 
 ## Documentation
 
