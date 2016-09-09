@@ -1,0 +1,362 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/p/Desktop/patshow/" . "script/")
+ ("/Users/p/Desktop/" . "patshow/")
+ ("/Users/p/current/bones/src/cljs/" . "userspace/")
+ ("/Users/p/current/bones/src/" . "userspace/")
+ ("/Users/p/current/bones/" . "src/")
+ ("/Users/p/current/" . "bones/")
+ ("/Users/p/bin/resources/" . "public/")
+ ("/usr/local/" . "bin/")
+ ("/Users/p/dtf/home/bin/" . "src/")
+ ("/Users/p/dtf/home/" . ".lein/")
+ ("/usr/" . "local/")
+ ("/Users/p/dev-tools-functions/config/" . "clj/")
+ ("/Users/p/events/src/onyx_starter/" . "lifecycles/")
+ ("/Users/p/events/src/" . "onyx_starter/")
+ ("/Users/p/events/" . "src/")
+ ("/Users/p/work/" . "build/")
+ ("/Users/p/july/" . "mp/")
+ ("/Users/p/drilling/be/resources/" . "datoms/")
+ ("/Users/p/drilling/be/src/" . "schema/")
+ ("/Users/p/drilling/be/" . "resources/")
+ ("/Users/p/drilling/" . "be/")
+ ("/Users/p/proto/src/cljs/" . "proto/")
+ ("/Users/p/proto/src/" . "cljs/")
+ ("/Users/p/proto/" . "src/")
+ ("/Users/p/work/write/resources/" . "notes/")
+ ("/Users/p/work/write/" . "resources/")
+ ("/Users/p/weave-demos/" . "poseidon/")
+ ("/Users/p/.go/src/github.com/user/" . "hello/")
+ ("/Users/p/bin/go/go/" . "src/")
+ ("/Users/p/bin/go/" . "src/")
+ ("/Users/p/.go/src/github.com/nsf/" . "gocode/")
+ ("/Users/p/.go/src/github.com/" . "user/")
+ ("/Users/p/dtf/config/go/.go/src/github.com/nsf/" . "gocode/")
+ ("/Users/p/dtf/config/go/.go/src/github.com/" . "nsf/")
+ ("/Users/p/dtf/config/go/.go/src/" . "github.com/")
+ ("/Users/p/.go/src/code.google.com/" . "p/")
+ ("/Users/p/.go/src/golang.org/x/tools/blog/" . "atom/")
+ ("/Users/p/.go/src/golang.org/x/tools/benchmark/" . "parse/")
+ ("/Users/p/.go/src/golang.org/x/tools/" . "blog/")
+ ("/Users/p/.go/src/golang.org/x/" . "tools/")
+ ("/Users/p/.go/src/golang.org/" . "x/")
+ ("/Users/p/.go/src/" . "github.com/")
+ ("/Users/p/.go/" . "src/")
+ ("/Users/p/dtf/config/go/.go/" . "src/")
+ ("/Users/p/dtf/config/go/" . ".go/")
+ ("/Users/p/dotfiles/resources/" . "public/")
+ ("/Users/p/dtf/config/tmux/.tmux/" . "templates/")
+ ("/Users/p/dtf/config/tmux/" . ".tmux/")
+ ("/Users/p/dotfiles/cfg/machines/.machines/ubuntu/" . "packer-ubuntu-14.04-amd64-virtualbox/")
+ ("/Users/p/dotfiles/cfg/machines/.machines/" . "ubuntu/")
+ ("/Users/p/dotfiles/cfg/machines/" . ".machines/")
+ ("/Users/p/dotfiles/cfg/bin/" . "bin/")
+ ("/Users/p/dotfiles/cfg/" . "machines/")
+ ("/Users/p/dotfiles/" . "src/")
+ ("/Users/p/gtmf/" . ".git/")
+ ("/Users/p/dev/resources/private/" . "machines/")
+ ("/Users/p/dev/resources/" . "private/")
+ ("/Users/p/dtf/resource/" . "private/")
+ ("/Users/p/.cask/" . "bin/")
+ ("/Users/p/dtf/config/zsh/.zsh/platform/" . "linux/")
+ ("/Users/p/dtf/config/zsh/.zsh/" . "platform/")
+ ("/Users/p/Documents/prev-zsh-config/" . ".config-zsh/")
+ ("/Users/p/.emacs.d/" . "config/")
+ ("/Users/p/dtf/config/clj/" . ".boot/")
+ ("/Users/p/dtf/config/zsh/.zsh/dirhist/Users/p/dtf/config/zsh/" . ".zsh/")
+ ("/Users/p/dtf/config/zsh/.zsh/dirhist/Users/p/dtf/config/" . "zsh/")
+ ("/Users/p/dtf/config/zsh/.zsh/dirhist/Users/p/dtf/" . "config/")
+ ("/Users/p/dtf/config/zsh/.zsh/dirhist/Users/p/" . "dtf/")
+ ("/Users/p/dtf/config/zsh/.zsh/dirhist/Users/" . "p/")
+ ("/Users/p/dtf/config/zsh/.zsh/dirhist/" . "Users/")
+ ("/Users/p/dtf/config/zsh/" . ".zsh/")
+ ("/Users/p/dtf/config/emacs/.emacs.d/" . "config/")
+ ("/Users/p/dtf/config/emacs/" . ".emacs.d/")
+ ("/Users/p/dtf/config/" . "emacs/")
+ ("/Users/p/bin/" . "resources/")
+ ("/Users/p/Documents/writings/" . "nightly-reports/")
+ ("/Users/p/dtf/" . "home/")
+ ("/Users/p/dtf/.emacs.d/" . ".cask/")
+ ("/Users/p/dev/" . "resources/")
+ ("/Users/p/Documents/" . "mp/")
+ ("/Users/" . "p/")
+ ("/" . "Users/")
+ ("/Users/p/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/p/Desktop/patshow/script/"
+ "/Users/p/Desktop/"
+ "/Users/p/Desktop/patshow/mornings/"
+ "/Users/p/Desktop/patshow/"
+ "/Users/p/current/bones/"
+ "/Users/p/current/bones/src/userspace/"
+ "/Users/p/current/bones/src/cljs/userspace/"
+ "/Users/p/current/bones/src/cljs/bones/"
+ "/Users/p/current/ab/"
+ "/Users/p/current/"
+ "/Users/p/.emacs.d/"
+ "/Users/p/.boot/"
+ "/Users/p/current/patsh/"
+ "/Users/p/"
+ "/Users/p/Documents/"
+ "/Users/p/dtf/home/.lein/"
+ "/Users/p/dtf/home/bin/thing/src/thing/"
+ "/Users/p/dtf/home/bin/thing/"
+ "/Users/p/dtf/home/"
+ "/Users/p/bin/resources/public/"
+ "/Users/p/bin/"
+ "/Users/p/bin/src/"
+ "/Users/p/bin/src/app/"
+ "/Users/p/dtf/home/bin/"
+ "/Users/p/dtf/home/.zsh/"
+ "/Users/p/dtf/home/bin/tools/gherkin/"
+ "/Users/p/dtf/home/bin/src/pythag/"
+ "/usr/local/bin/"
+ "/Users/p/dtf/home/bin/tools/"
+ "/usr/bin/"
+ "/Users/p/dtf/home/bin/src/"
+ "/Users/p/dtf/home/bin/tools/templates/"
+ "/Users/p/dtf/"
+ "/Users/p/dtf/home/bin/tools/console/"
+ "/Users/p/dtf/home/bin/tools/console/src/clj/console/"
+ "/Users/p/clj/"
+ "/Users/p/dtf/home/bin/src/build/"
+ "/Users/p/dtf/home/bin/clj/pythag/"
+ "/Users/p/dtf/home/bin/clj/"
+ "/Users/p/.lein/"
+ "/Users/p/bin/clj/pythag/"
+ "/Users/p/bin/clj/"
+ "/Users/p/bin/pythag/"
+ "/Users/p/clj/out/hello_world/"
+ "/Users/p/dtf/clj/"
+ "/Users/p/dev-tools-functions/"
+ "/Users/p/dev-tools-functions/config/zsh/"
+ "/Users/p/dev-tools-functions/config/"
+ "/Users/p/dev/"
+ "/Users/p/aws/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "script"
+ "todo"
+ "madlibs"
+ "intro"
+ "5-26-16"
+ "johnoliver"
+ "jokes"
+ "lebatard"
+ "5-25-16"
+ "core.clj"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/p/Desktop/patshow/script/" (22413 31722 0 0) "script" "madlibs" "intro" "../" "./")
+
+ ("/Users/p/Desktop/" (22413 31929 0 0) "stu/" "patshow/" ".DS_Store" "../" "./")
+
+ ("/Users/p/" (22413 35903 0 0) "VirtualBox VMs/" "target/" "Public/" "Pictures/" "oldbin/" "Music/" "Movies/" "Library/" "dtf/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "current/" "bin/" "Applications/" ".zshrc" ".zsh/" ".zcompdump.air.lan.426" ".zcompdump" ".wapi/" ".vagrant.d/" ".vagrant/" ".Trash/" ".tmux.conf" ".thumbnails/" ".subversion/" ".ssh/" ".sawsrc" ".saws.log" ".saws-history" ".planck_history" ".oracle_jre_usage/" ".nrepl-history" ".npm-packages/" ".npm/" ".node-gyp/" ".m2/" ".local/" ".lein_history" ".lein/" ".htoprc" ".gitconfig" ".gem/" ".env" ".emacs.d/" ".DS_Store" ".dropbox/" ".drip_history" ".drip/" ".docker/" ".dnx/" ".config/" ".CFUserTextEncoding" ".cask/" ".cache/" ".boot2docker/" ".boot/" ".aws/" ".android/" ".#test.cs" "../" "./")
+
+ ("/Users/p/Desktop/patshow/" (22343 20748 0 0) "script/" "mornings/" "lebatard" "jokes" "johnoliver" ".git/" "../" "./")
+
+ ("/Users/p/dtf/home/.zsh/" (22341 60637 0 0) "z.zsh" "z" "prompt.zsh" "platform/" "path.zsh" "opts.zsh" "kbd.zsh" "fns.zsh" "envars.zsh" "completions/" "autoloads.zsh" "alias.zsh" ".zsh_history" "../" "./")
+
+ ("/Users/p/.emacs.d/" (22342 24874 0 0) "recentf" "projectile-bookmarks.eld" "init.el" "ido.last" "eshell/" "config/" "Cask" "backups/" "auto-save-list/" ".smex-items" ".savehist" ".cask/" ".#ido.last" "../" "./")
+
+ ("/Users/p/Desktop/patshow/mornings/" (22341 43599 0 0) "5-25-16" "5-23-16" "../" "./")
+
+ ("/Users/p/.lein/" (22241 62826 0 0) "self-installs/" "repl-history" "profiles.clj" "../" "./")
+
+ ("/Users/p/dtf/" (22186 30096 0 0) "TODO" "home/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/p/dtf/home/bin/src/" (22186 29500 0 0) "tpl" "scratch.clj" "project.clj" "one-of.clj" "nrepl.clj" "data.edn" "app/" "../" "./")
+
+ ("/usr/bin/" (22277 22409 0 0) "zprint" "znew" "zmore" "zless" "zipsplit" "zipnote" "zipinfo" "zipgrep" "zipdetails5.18" "zipdetails5.16" "zipdetails" "zipcloak" "zip" "zgrep" "zforce" "zfgrep" "zegrep" "zdiff" "zcmp" "zcat" "ypwhich" "ypmatch" "ypcat" "yes" "yacc" "xxd" "xsubpp5.18" "xsubpp5.16" "xsubpp" "xsltproc" "xslt-config" "xpath5.18" "xpath5.16" "xpath" "xmllint" "xmlcatalog" "xml2man" "xml2-config" "xjc" "xip" "xgettext5.18.pl" "xgettext5.16.pl" "xgettext.pl" "xed" "xcrun" "xcodebuild" "xcode-select" "xattr-2.7" "xattr-2.6" "xattr" "xargs" "xar" "wsimport" "wsgen" "write" "wish8.5" "wish8.4" "wish" "whois" "whoami" "who" "which" "whereis" "whatis" "what" "weblatency.d" "wdutil" "wc" "wall" "wait" "w" "vmmap32" "vmmap" "vm_stat" "vis" "vimtutor" "vimdiff" "vim" "view" "vi" "vagrant" "uux" "uuto" "uustat" "uupick" "uuname" "uulog" "uuidgen" "uuencode" "uudecode" "uucp" "users" "uptime" "update_dyld_shared_cache" "unzipsfx" "unzip" "unvis" "UnRezWack" "unpack200" "units" "uniq" "unifdefall" "unifdef" "unexpand" "uncompress" "uname" "unalias" "umask" "ulimit" "ul" "type" "tty" "tsort" "tset" "true" "troff" "trimforce" "treereg5.18" "treereg5.16" "treereg" "traptoemail" "trace" "tr" "tput" "touch" "topsysproc" "topsyscall" "tops" "top" "toe" "tnameserv" "tmutil" "tmdiagnose" "tkpp5.18" "tkpp5.16" "tkpp" "tkmib" "tkcon" "timerfires" "timer_analyser.d" "time" "tiffutil" "tiff2icns" "tidy" "tic" "thermal" "tftp" "tfmtodit" "textutil" "texindex" "texi2pdf" "texi2dvi" "testrb" "telnet" "tee" "tclsh8.5" "tclsh8.4" "tclsh" "tccutil" "tbl" "taskinfo" "tar" "talk" "tail" "tabs" "tab2space" "syslog" "sysdiagnose" "syscallbysysc.d" "syscallbyproc.d" "syscallbypid.d" "symbolscache" "symbols" "swiftc" "swift" "sw_vers" "svnversion" "svnsync" "svnserve" "svnlook" "svndumpfilter" "svnadmin" "svn" "sum" "sudo" "su" "stty5.18.pl" "stty5.16.pl" "stty.pl" "strip" "strings" "stringdups32" "stringdups" "stat" "ssh-keyscan" "ssh-keygen" "ssh-agent" "ssh-add" "ssh" "srm" "sqlite3" "SplitForks" "split" "splain5.18" "splain5.16" "splain" "spfquery5.18" "spfquery5.16" "spfquery" "spfd5.18" "spfd5.16" "spfd" "sort" "soelim" "sntp" "snmpwalk" "snmpvacm" "snmpusm" "snmptrap" "snmptranslate" "snmptest" "snmptable" "snmpstatus" "snmpset" "snmpnetstat" "snmpinform" "snmpgetnext" "snmpget" "snmpdf" "snmpdelta" "snmpconf" "snmpbulkwalk" "snmpbulkget" "snmp-bridge-mib" "snfsdefrag" "smtpd2.7.py" "smtpd2.6.py" "smtpd.py" "smbutil" "slogin" "size" "sips" "sigdist.d" "showmount" "shlock" "shasum5.18" "shasum5.16" "shasum" "shar" "sftp" "sfltool" "setuids.d" "setregion" "SetFile" "servertool" "serialver" "seq" "segedit" "seeksize.d" "sed" "security" "sdx" "sdp" "sdiff" "sdef" "script" "screen" "scp" "schemagen" "scandeps5.18.pl" "scandeps5.16.pl" "scandeps.pl" "sc_usage" "say" "sar" "sandbox-exec" "sampleproc" "sample" "s2p5.18" "s2p5.16" "s2p" "rwsnoop" "rwho" "rwbytype.d" "rwbypid.d" "rvim" "rview" "ruptime" "runocc.d" "ruby" "rsync" "rsh" "rs" "rpcgen" "rmiregistry" "rmid" "rmic" "rlogin" "ri" "RezWack" "RezDet" "Rez" "rev" "resolveLinks" "ResMerger" "reset" "renice" "refer" "redo_prebinding" "rebase" "readlink" "read" "rdoc" "ranlib" "rake" "rails" "quota" "qtmodernizer" "qtdefaults" "qlmanage" "qc2movie" "pythonw2.7" "pythonw2.6" "pythonw" "python2.7-config" "python2.7" "python2.6-config" "python2.6" "python-config" "python" "pydoc2.7" "pydoc2.6" "pydoc" "pwpolicy" "pwhich5.18" "pwhich5.16" "pwhich" "pubsub" "ptargrep5.18" "ptargrep5.16" "ptargrep" "ptardiff5.18" "ptardiff5.16" "ptardiff" "ptar5.18" "ptar5.16" "ptar" "pstruct5.18" "pstruct5.16" "pstruct" "pstopdf" "psed5.18" "psed5.16" "psed" "prove5.18" "prove5.16" "prove" "profiles" "productsign" "productbuild" "procsystime" "printf" "printenv" "pridist.d" "priclass.d" "pre-grohtml" "pr" "ppdpo" "ppdmerge" "ppdi" "ppdhtml" "ppdc" "pp5.18" "pp5.16" "pp" "powermetrics" "power_report.sh" "post-grohtml" "policytool" "podselect5.18" "podselect5.16" "podselect" "podchecker5.18" "podchecker5.16" "podchecker" "pod2usage5.18" "pod2usage5.16" "pod2usage" "pod2text5.18" "pod2text5.16" "pod2text" "pod2readme5.18" "pod2readme5.16" "pod2readme" "pod2man5.18" "pod2man5.16" "pod2man" "pod2latex5.18" "pod2latex5.16" "pod2latex" "pod2html5.18" "pod2html5.16" "pod2html" "pmset" "plutil" "pluginkit" "plockstat" "pl2pm5.18" "pl2pm5.16" "pl2pm" "pl" "pkill" "pkgbuild" "pidpersec.d" "piconv5.18" "piconv5.16" "piconv" "pico" "pic2graph" "pic" "phpize" "php-config" "php" "phar.phar" "phar" "pgrep" "pfbtops" "perlthanks5.18" "perlthanks5.16" "perlthanks" "perlivp5.18" "perlivp5.16" "perlivp" "perldoc5.18" "perldoc5.16" "perldoc" "perlbug5.18" "perlbug5.16" "perlbug" "perl5.18" "perl5.16" "perl" "pcsctest" "pcap-config" "pbpaste" "pbcopy" "pathopens.d" "pathchk" "patch" "paste" "passwd" "parldyn5.18" "parldyn5.16" "parldyn" "parl5.18" "parl5.16" "parl" "par5.18.pl" "par5.16.pl" "par.pl" "pagestuff" "pagesize" "package-stash-conflicts5.18" "package-stash-conflicts5.16" "package-stash-conflicts" "pack200" "otool" "ostraceutil" "osascript" "osalang" "osadecompile" "osacompile" "orbd" "openssl" "opensnoop" "opendiff" "open" "odutil" "od" "ntpq" "ntp-keygen" "nsupdate" "nslookup" "nscurl" "nroff" "notifyutil" "nohup" "nmedit" "nm" "nl" "nice" "nfsstat" "newproc.d" "newgrp" "newaliases" "nettop" "net-snmp-create-v3-user" "net-snmp-config" "net-snmp-cert" "net-server5.18" "net-server5.16" "net-server" "neqn" "ndisasm" "ncurses5.4-config" "nclist" "ncinit" "ncdestroy" "ncctl" "ncal" "nc" "nbdst" "native2ascii" "nasm" "nano" "MvMac" "msgs" "more" "moose-outdated5.18" "moose-outdated5.16" "moose-outdated" "moo-outdated5.18" "moo-outdated" "mnthome" "mmroff" "mktemp" "mklocale" "mkfifo" "mkdep" "mkbom" "mig" "mib2c-update" "mib2c" "mesg" "MergePef" "memory_pressure" "mdutil" "mdls" "mdimport32" "mdimport" "mdfind" "mddiagnose" "mcxrefresh" "mcxquery" "manpath" "man" "malloc_history32" "malloc_history" "makeinfo" "make" "mailx" "mailq" "mail" "machine" "macerror5.18" "macerror5.16" "macerror" "macbinary" "m4" "lwp-request5.18" "lwp-request5.16" "lwp-request" "lwp-mirror5.18" "lwp-mirror5.16" "lwp-mirror" "lwp-dump5.18" "lwp-dump5.16" "lwp-dump" "lwp-download5.18" "lwp-download5.16" "lwp-download" "lsvfs" "lsmp" "lsm" "lskq" "lsbom" "lsappinfo" "lpstat" "lprm" "lpr" "lpq" "lpoptions" "lp" "lorder" "lookbib" "look" "logname" "login" "logger" "lockstat" "locate" "localedef" "locale" "loads.d" "llvm-gcc" "llvm-g++" "lldb" "lkbib" "lipo" "libtool" "libnetcfg5.18" "libnetcfg5.16" "libnetcfg" "lex" "lessecho" "less" "leave" "leaks32" "leaks" "ldapwhoami" "ldapurl" "ldapsearch" "ldappasswd" "ldapmodrdn" "ldapmodify" "ldapexop" "ldapdelete" "ldapcompare" "ldapadd" "ld" "layerutil" "latency" "lastwords" "lastcomm" "last" "lam" "kswitch" "krb5-config" "kpasswd" "klist" "kinit" "killall" "kill.d" "kgetcred" "keytool" "kextutil" "kdestroy" "kcc" "jvisualvm" "jstatd" "jstat" "jstack" "json_pp5.18" "json_pp5.16" "json_pp" "jsadebugd" "jrunscript" "jps" "jot" "join" "jobs" "jmc" "jmap" "jjs" "jinfo" "jhat" "jdeps" "jdb" "jconsole" "jcmd" "javaws" "javap" "javah" "javadoc" "javac" "java" "jarsigner" "jar" "irb" "iptab5.18" "iptab5.16" "iptab" "iprofiler" "ipptool" "ippfind" "ipmitool" "ipcs" "ipcrm" "ipcount5.18" "ipcount5.16" "ipcount" "ip2cc5.18" "ip2cc5.16" "ip2cc" "iotop" "iosnoop" "iopending" "iopattern" "iofileb.d" "iofile.d" "instruments" "instmodsh5.18" "instmodsh5.16" "instmodsh" "install_name_tool" "install-info" "install" "infotocap" "infokey" "infocmp" "info" "indxbib" "indent" "imptrace" "idlj" "idle2.7" "idle2.6" "idle" "id" "ictool" "iconv" "iconutil" "ibtool" "httpdstat.d" "htmltree5.18" "htmltree5.16" "htmltree" "hpftodit" "hotspot.d" "hostinfo" "host" "hiutil" "hexdump" "heap32" "heap" "headerdoc2html" "head" "hdxml2manxml" "hdiutil" "hdid" "hash" "h2xs5.18" "h2xs5.16" "h2xs" "h2ph5.18" "h2ph5.16" "h2ph" "gzip" "gzexe" "gzcat" "gunzip" "groups" "grotty" "grops" "grolj4" "grolbp" "grog" "groffer" "groff" "grodvi" "grn" "grep" "grap2graph" "gperf" "gnuserv" "gnumake" "gnudoit" "gnuclient" "gnuattach" "gm4" "git-upload-pack" "git-upload-archive" "git-shell" "git-receive-pack" "git-cvsserver" "git" "getopts" "getopt" "GetFileInfo" "getconf" "genstrings" "gencat" "gen_bridge_metadata" "gem" "gdiffmk" "gcov" "gcc" "gatherheaderdoc" "g++" "fwkpfv" "fwkdp" "fuser" "funzip" "ftp" "fs_usage" "from" "format-sql5.18" "format-sql5.16" "format-sql" "footprint" "fontrestore" "fold" "fmt" "flex++" "flex" "fixproc" "finger" "findrule5.18" "findrule5.16" "findrule" "find2perl5.18" "find2perl5.16" "find2perl" "find" "filtercalltree" "filebyproc.d" "file" "fgrep" "fg" "fdesetup" "fddist" "fc" "fax" "false" "eyapp5.18" "eyapp5.16" "eyapp" "extcheck" "expect" "expand" "execsnoop" "ex" "etags" "errinfo" "erb" "eqn2graph" "eqn" "env" "encode_keychange" "enc2xs5.18" "enc2xs5.16" "enc2xs" "emacsclient" "emacs-undumped" "emacs" "egrep" "efix" "efax" "easy_install-2.7" "easy_install-2.6" "easy_install" "dwarfdump" "du" "dtruss" "dsymutil" "dsmemberutil" "dsimport" "dsexport" "dserr" "dscl" "dscacheutil" "drutil" "dns-sd" "ditto" "dispqlen.d" "diskhits" "dirname" "dig" "diffstat" "diff3" "diff" "desdp" "DeRez" "defaults" "debinhex5.18.pl" "debinhex.pl" "dc" "dbiproxy5.18" "dbiproxy5.16" "dbiproxy" "dbiprof5.18" "dbiprof5.16" "dbiprof" "dbilogstrip5.18" "dbilogstrip5.16" "dbilogstrip" "dbicadmin5.18" "dbicadmin5.16" "dbicadmin" "db_verify" "db_upgrade" "db_stat" "db_recover" "db_printlog" "db_load" "db_hotbackup" "db_dump" "db_deadlock" "db_codegen" "db_checkpoint" "db_archive" "darwinup" "dapptrace" "dappprof" "cvmkfile" "cvmkdir" "cvcp" "cvaffinity" "cut" "curl-config" "curl" "cupstestppd" "cupstestdsc" "cups-config" "cu" "ctf_insert" "ctags" "csrutil" "csreq" "csplit" "csgather" "csdiagnose" "crontab" "crlrefresh" "creatbyproc.d" "crc325.18" "crc325.16" "crc32" "cpuwalk.d" "cpu_profiler.d" "cpp" "CpMac" "cpio" "cpanp5.18" "cpanp5.16" "cpanp-run-perl5.18" "cpanp-run-perl5.16" "cpanp-run-perl" "cpanp" "cpan5.18" "cpan5.16" "cpan2dist5.18" "cpan2dist5.16" "cpan2dist" "cpan" "corelist5.18" "corelist5.16" "corelist" "config_data5.18" "config_data5.16" "config_data" "compress" "command" "comm" "column" "colrm" "colldef" "colcrt" "col" "codesign_allocate" "codesign" "cmpdylib" "cmp" "clear" "clang++" "clang" "cksum" "chsh" "chpass" "chgrp" "chfn" "chflags" "checknr" "certtool" "cd" "cc" "captoinfo" "cap_mkdb" "cancel" "calendar" "cal" "caffeinate" "c_rehash" "c99" "c89" "c2ph5.18" "c2ph5.16" "c2ph" "c++filt" "c++" "bzmore" "bzless" "bzip2recover" "bzip2" "bzgrep" "bzfgrep" "bzegrep" "bzdiff" "bzcmp" "bzcat" "bunzip2" "BuildStrings" "btmmdiagnose" "bspatch" "bsdtar" "brctl" "bitesize.d" "bison" "binhex5.18.pl" "binhex.pl" "binhex" "biff" "bg" "bc" "batch" "bashbug" "basename" "base64" "banner" "awk" "avmetareadwrite" "avconvert" "avbutil" "avbdiagnose" "auvaltool" "auval" "automator" "atsutil" "atrm" "atq" "atos" "at" "assetutil" "asctl" "asa" "as" "arch" "ar" "apu-1-config" "apt" "apropos" "apr-1-config" "apply" "appletviewer" "applesingle" "alias" "agvtool" "agentxtrap" "afscexpand" "afplay" "afmtodit" "afinfo" "afida" "afhash" "afconvert" "addftinfo" "a2p5.18" "a2p5.16" "a2p" "2to32.6" "2to3-2.7" "2to3-" "2to3" "../" "./")
+
+ ("/usr/local/bin/" (22237 54126 0 0) "yo" "xzmore" "xzless" "xzgrep" "xzfgrep" "xzegrep" "xzdiff" "xzdec" "xzcmp" "xzcat" "xz" "xsp4" "xsp2" "xsp" "xsd" "xmlpatternsvalidator" "xmlpatterns" "xbuild" "wsdl2" "wsdl" "wireshark" "wget" "w3mman" "w3m" "VirtualBox" "vboxwebsrv" "VBoxVRDP" "VBoxManage" "VBoxHeadless" "VBoxDTrace" "VBoxBalloonCtrl" "VBoxAutostart" "vbox-img" "vbnc2" "vbnc" "vagrant" "urchin" "unxz" "unlzma" "uic" "tutum" "tshark" "tree" "tmux" "text2pcap" "terminal-notifier" "svcutil" "stow" "sshuttle" "srptool" "sqlsharp" "sqlmetal" "soapsuds" "sn" "signcode" "sgen" "sexp-conv" "setreg" "secutil" "saws" "ruby-local-exec" "ruby-build" "rubocop" "rstpep2html.py" "rst2xml.py" "rst2xetex.py" "rst2s5.py" "rst2pseudoxml.py" "rst2odt_prepstyles.py" "rst2odt.py" "rst2man.py" "rst2latex.py" "rst2html.py" "rlwrap" "resgen2" "resgen" "reattach-to-user-namespace" "realpath" "rcc" "rbenv-uninstall" "rbenv-install" "rbenv" "rawshark" "randpkt" "qt3to4" "qmlplugindump" "qmake" "qhelpgenerator" "qdoc3" "qcollectiongenerator" "pyrsa-verify" "pyrsa-sign" "pyrsa-priv2pub" "pyrsa-keygen" "pyrsa-encrypt-bigfile" "pyrsa-encrypt" "pyrsa-decrypt-bigfile" "pyrsa-decrypt" "pygmentize" "psktool" "protoc" "prj2make" "prime.clj" "pmxcli" "planck" "pkg-config" "pkcs1-conv" "pip2.7" "pip2" "pip" "peverify" "permview" "pedump" "pdb2mdb" "pcretest" "pcregrep" "pcre-config" "panamax" "onig-config" "ohai" "ocsptool" "nvm" "nunit-console4" "nunit-console2" "nunit-console" "nuget" "npm" "nodewebkit" "node" "nettle-lfib-stream" "nettle-hash" "ncdu" "natal" "n" "mvnyjp" "mvnDebug.cmd" "mvnDebug" "mvn.cmd" "mvn" "mprof-report" "mpicalc" "mozroots" "mosh-server" "mosh-client" "mosh" "monop2" "monop" "monolinker" "monodocs2slashdoc" "monodocs2html" "monodocer" "monodis" "mono-xmltool" "mono-test-install" "mono-symbolicate" "mono-shlib-cop" "mono-sgen" "mono-service2" "mono-service" "mono-heapviz" "mono-gdb.py" "mono-find-requires" "mono-find-provides" "mono-configuration-crypto" "mono-cil-strip" "mono-boehm" "mono-api-info" "mono" "mod-mono-server4" "mod-mono-server2" "mod-mono-server" "mod" "moc" "mkbundle" "mergecap" "mdvalidater" "mdoc-validate" "mdoc-update" "mdoc-export-msxdoc" "mdoc-export-html" "mdoc-assemble" "mdoc" "mdassembler" "mcs" "mconfig" "makecert" "macpack" "macdeployqt" "lzmore" "lzmainfo" "lzmadec" "lzma" "lzless" "lzgrep" "lzfgrep" "lzegrep" "lzdiff" "lzcmp" "lzcat" "lupdate" "lrelease" "libgcrypt-config" "lconvert" "lc" "knife" "kitchen" "juju-quickstart" "juju-metadata" "juju" "jq" "jp.pyc" "jp.py" "irw64" "irw" "IronRuby.Tests" "ir64" "ir" "ipyw64" "ipyw" "ipy64" "ipy" "installvst" "ilasm" "ikdasm" "ifnames" "httpcfg" "http-server" "htop" "hs" "hmac256" "helios-use" "helios-up" "helios-solo" "helios-restart" "helios-env" "helios-down" "helios-cleanup" "helios" "gyes" "gwhoami" "gwho" "gwc" "gvdir" "gusers" "guptime" "gunlink" "guniq" "gunexpand" "guname" "gtty" "gtsort" "gtruncate" "gtrue" "gtr" "gtouch" "gtimeout" "gtester-report" "gtester" "gtest" "gtee" "gtar" "gtail" "gtac" "gsync" "gsum" "gstty" "gstdbuf" "gstat" "gsplit" "gsort" "gsleep" "gshuf" "gshred" "gsha512sum" "gsha384sum" "gsha256sum" "gsha224sum" "gsha1sum" "gsettings" "gseq" "grunt" "gruncon" "grmdir" "grm" "gresource" "grep-changelog" "grealpath" "greadlink" "gpwd" "gptx" "gprintf" "gprintenv" "gpr" "gpinky" "gpg-error-config" "gpg-error" "gpathchk" "gpaste" "gofmt" "godoc" "god" "gobject-query" "go" "gnutls-serv" "gnutls-cli-debug" "gnutls-cli" "gnutls-certtool" "gnumfmt" "gnproc" "gnohup" "gnl" "gnice" "gmv" "gmktemp" "gmknod" "gmkfifo" "gmkdir" "gmd5sum" "gls" "glogname" "gln" "glink" "glib-mkenums" "glib-gettextize" "glib-genmarshal" "glib-compile-schemas" "glib-compile-resources" "gkill" "gjoin" "gitk" "git-upload-pack" "git-upload-archive" "git-subtree" "git-shell" "git-sh" "git-receive-pack" "git-cvsserver" "git-credential-osxkeychain" "git" "gio-querymodules" "ginstall" "gid" "ghostid" "ghead" "ggroups" "gfold" "gfmt" "gfalse" "gfactor" "gexpr" "gexpand" "geoiplookup6" "geoiplookup" "genxs" "genv" "gecho" "gdu" "gdirname" "gdircolors" "gdir" "gdf" "gdd" "gdbus-codegen" "gdbus" "gdbmtool" "gdbm_load" "gdbm_dump" "gdate" "gcut" "gcsplit" "gcp" "gcomm" "gcksum" "gchroot" "gchown" "gchmod" "gchgrp" "gchcon" "gcat" "gbasename" "gbase64" "gapplication" "gapi2-parser" "gapi2-fixup" "gapi2-codegen" "gacutil2" "gacutil" "g[" "fswatch" "fsharpi" "fsharpc" "foodcritic" "fauxhai" "fastcgi-mono-server4" "fastcgi-mono-server2" "fastcgi-mono-server" "event_rpcgen.py" "etags" "emacsclient" "emacs-24.5" "emacs" "elinks" "electron" "editcap" "ebrowse" "dumpsexp" "dumpcap" "dtd2xsd" "dtd2rng" "docker.bak" "docker-osx-dev" "docker-machine" "docker-compose" "docker" "dnvm.sh" "dmcs" "djsd" "divshot" "disco" "dftest" "dbus-uuidgen" "dbus-update-activation-environment" "dbus-test-tool" "dbus-send" "dbus-run-session" "dbus-monitor" "dbus-launch" "dbus-daemon" "dbus-cleanup-sockets" "dbsessmgr4" "dbsessmgr2" "dbsessmgr" "ctags" "csharp" "cljs" "ClassInitGenerator" "chktrust" "chkstow" "chef-solo" "chef-shell" "chef-client" "chef-apply" "chef" "certmgr" "cert2spc" "ccrewrite" "cccheck" "caspol" "captain" "capinfos" "brew-cask" "brew" "bower" "boot2docker.bak" "boot2docker" "berks" "bashbug" "bash" "aws_zsh_completer.sh" "aws_completer" "aws.cmd" "aws" "autoupdate" "autoscan" "autoreconf" "autom4te" "autoheader" "autoconf" "asp-state4" "asp-state2" "asp-state" "asn1Parser" "asn1Decoding" "asn1Coding" "ansible-vault" "ansible-pull" "ansible-playbook" "ansible-galaxy" "ansible-doc" "ansible" "al2" "al" "../" "./")
+
+ ("/Users/p/dtf/home/bin/" (22194 24625 0 0) "tools/" "thing/" "target/" "src/" "resources/" "omnisharp-server/" "not-named-build-boot" "go/" "build-node-app.clj" "build-app.clj" "brepl.clj" "boot" "android-sdk-macosx/" ".nrepl-history" ".DS_Store" "../" "./")
+
+ ("/Users/p/bin/src/" (22186 29500 0 0) "tpl" "scratch.clj" "project.clj" "one-of.clj" "nrepl.clj" "data.edn" "app/" "../" "./")
+
+ ("/Users/p/bin/" (22194 24625 0 0) "tools/" "thing/" "target/" "src/" "resources/" "omnisharp-server/" "not-named-build-boot" "go/" "build-node-app.clj" "build-app.clj" "brepl.clj" "boot" "android-sdk-macosx/" ".nrepl-history" ".DS_Store" "../" "./")
+
+ ("/Users/p/dtf/home/" (22237 54265 0 0) "bin/" ".zshrc" ".zsh/" ".tmux.conf" ".npmrc" ".lein/" ".htoprc" ".gitconfig" ".emacs.d/" ".DS_Store" ".cask/" ".boot/" "../" "./")
+
+ ("/Users/p/dtf/home/.lein/" (22241 62826 0 0) "self-installs/" "repl-history" "profiles.clj" "../" "./")
+
+ ("/Users/p/Documents/" (22308 60027 0 0) "writings/" "working-notes" "videogamenotes" "Unreal Projects/" "thoughts-on-bringing-discipline-back" "shell-stuff" "redundant-old-dtf/" "prev-zsh-config/" "PatrickBrown_TaxReturn2015.pdf" "old.tmux.conf" "old-home/" "old-dtf/" "old-.emacs.d/" "notes/" "mp/" "iT2CS/" "How to Talk to Anyone - 92 Little Tricks for Big Success in Relationships.PDF" "game-ideas" "epic-story-task-step" "emile" "docker-notes" "dndc.pages" "blender" "ansible-worknotes" "4Wells_MDTotcoEDRData.zip" ".localized" ".DS_Store" ".#coreos-notes" "../" "./")
+
+ ("/Users/p/current/patsh/" (22242 58211 0 0) "target/" "src/" "README.md" "build.boot" "assets/" ".nrepl-history" ".gitignore" ".git/" ".#README.md" ".#build.boot" ".#.gitignore" "../" "./")
+
+ ("/Users/p/.boot/" (22241 55090 0 0) "profile.boot" "cache/" "boot.properties" "../" "./")
+
+ ("/Users/p/current/bones/" (22265 57614 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "onyx.log.005" "onyx.log.004" "onyx.log.003" "onyx.log.002" "onyx.log.001" "onyx.log" "LICENSE" "figwheel_server.log" "doc/" "dev-resources/" "dev/" ".lein-repl-history" ".lein-git-deps/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/p/current/bones/src/bones/" (22241 64285 0 0) "system.clj" "serializer.clj" "log.clj" "kafka.clj" "jobs.clj" "http.clj" "core.clj" "conf.clj" "../" "./")
+
+ ("/Users/p/current/bones/src/userspace/" (22241 61516 0 0) "jobs_conf.cljc" "jobs.clj" "core.clj" "../" "./")
+
+ ("/Users/p/current/bones/src/cljs/userspace/" (22257 51275 0 0) "html.cljs" "core.cljs" "../" "./")
+
+ ("/Users/p/current/bones/src/cljs/" (22241 53319 0 0) "userspace/" "bones/" "../" "./")
+
+ ("/Users/p/current/bones/src/" (22241 53319 0 0) "userspace/" "cljs/" "bones/" "../" "./")
+
+ ("/Users/p/current/ab/src/" (22242 58721 0 0) "ab/" "../" "./")
+
+ ("/Users/p/current/ab/src/ab/" (22242 60831 0 0) "systems/" "home.clj" "components/" "../" "./")
+
+ ("/Users/p/current/bones/src/cljs/bones/" (22241 53319 0 0) "system.cljs" "re-frame/" "http.cljs" "handlers.cljs" "forms.cljs" "event_source.cljs" "db.cljs" "core.cljs" "config.cljs" "../" "./")
+
+ ("/Users/p/current/ab/" (22243 9405 0 0) "test/" "src/" "README.md" "gitignore.com" "build.boot" ".git/" "../" "./")
+
+ ("/Users/p/current/" (22242 57395 0 0) "pipeline-tutorial/" "patsh/" "love/" "lambdacd-pipeline-structure-refactoring-example/" "lambdacd/" "kekt/" "hoplon-demos/" "demo/" "bt/" "bones/" "ab/" "../" "./")
+
+ ("/Users/p/current/demo/" (22203 9430 0 0) "src/" "README.md" "build.boot" "boot.properties" "assets/" ".nrepl-history" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/" (22065 7029 0 0) "Shared/" "p/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/p/bin/resources/public/" (22047 57955 0 0) "node-app.js" "js/" "index.html" "app.js" "../" "./")
+
+ ("/Users/p/dtf/home/bin/thing/" (22048 314 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "profiles.clj" "dev/" ".lein-repl-history" ".lein-env" ".gitignore" "../" "./")
+
+ ("/Users/p/dtf/home/bin/thing/src/thing/" (22047 62264 0 0) "system.clj" "main.clj" "endpoint/" "config.clj" "component/" "../" "./")
+
+ ("/Users/p/bin/resources/" (22047 55877 0 0) "public/" "private/" "../" "./")
+
+ ("/Users/p/bin/src/app/" (22047 56732 0 0) "node_core.cljs" "core.cljs" "../" "./")
+
+ ("/Users/p/dtf/home/bin/resources/public/" (22047 56545 0 0) "node-app.js" "js/" "app.js" "../" "./")
+
+ ("/Users/p/dtf/home/bin/tools/console/" (22046 51805 0 0) "test/" "src/" "resources/" "build.boot" "boot.properties" ".nrepl-history" ".gitignore" "../" "./")
+
+ ("/Users/p/dtf/home/bin/tools/" (22046 56107 0 0) "pomegranate.jar" "lein.jar" "lein" "gherkin/" "drip" "console/" "cljs.jar" "cljs" "clj.jar" "clj" ".nrepl-history" ".DS_Store" "../" "./")
+
+ ("/Users/p/dtf/home/bin/tools/gherkin/" (22045 12541 0 0) "simple_test.sh" "README.md" "read_profile.clj" "presentation.gk" "pipeseq.sh" "LICENSE.txt" "gherkin" "fib.gk" "core.gk" ".git/" "../" "./")
+
+ ("/Users/p/dtf/home/bin/src/pythag/" (22046 49041 0 0) "other.cljs" "core.cljs" "cli.cljs" "../" "./")
+
+ ("/usr/local/" (22045 30495 0 0) "var/" "SUPPORTERS.md" "share/" "sbin/" "README.md" "opt/" "n/" "LICENSE.txt" "Library/" "lib/" "include/" "Frameworks/" "etc/" "CONTRIBUTING.md" "CODEOFCONDUCT.md" "Cellar/" "bin/" ".yardopts" ".travis.yml" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/p/dtf/home/.boot/" (22046 45679 0 0) "tmp/" "profile.boot" "lib/" "cache/" "boot.properties" ".DS_Store" "../" "./")
+
+ ("/Users/p/dtf/home/bin/tools/templates/" (22046 33797 0 0) "test" "../" "./")
+
+ ("/usr/" (21988 43172 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/Users/p/dtf/home/bin/tools/console/src/clj/console/" (22046 32600 0 0) "styles.clj" "../" "./")
+
+ ("/Users/p/dtf/home/bin/objects/" (22046 31523 0 0) "objects.schema.edn" "../" "./")
+
+ ("/Users/p/dtf/home/bin/src/build/" (22046 31424 0 0) "../" "./")
+
+ ("/Users/p/clj/" (22046 30561 0 0) "src/" "README.md" "out/" "node-out/" "node/" "main.js" "index.html" "hello_loc.cljs" "hello_dude.cljs" "hello_bitches.cljs" "cljs.jar" "cljs-watch.clj" "cljs-repl.clj" "cljs-release.clj" "cljs-node.clj" "cljs-node-repl.clj" "cljs-build.clj" "build.boot" "aws/" ".repl-1.7.48/" ".git/" ".#cljs-node.clj" "../" "./")
+
+ ("/Users/p/dtf/home/bin/clj/pythag/" (22046 29987 0 0) "core.cljs" "cli.cljs" "../" "./")
+
+ ("/Users/p/dtf/home/bin/clj/" (22046 21593 0 0) "pythag/" "hello_world.cljs" "deps.edn" "../" "./")
+
+ ("/Users/p/bin/clj/" (22045 33148 0 0) "pythag/" "hello_world.cljs" "deps.edn" "../" "./")
+
+ ("/Users/p/bin/clj/pythag/" (22045 29468 0 0) "core.cljs" "cli.cljs" "../" "./")
+
+ ("/Users/p/bin/pythag/" (22045 26589 0 0) "core.cljs" "cli.cljs" "../" "./")
+
+ ("/Users/p/clj/out/hello_world/" (22045 22425 0 0) "core.js.map" "core.js" "core.cljs.cache.edn" "core.cljs" "../" "./")
+
+ ("/Users/p/dtf/clj/" (22045 20466 0 0) "test.clj" "../" "./")
+
+ ("/Users/p/dev-tools-functions/config/zsh/" (22045 16336 0 0) ".zshrc" ".zsh_history" ".zsh/" ".htoprc" ".ctags" ".ansible_hosts" "../" "./")
+
+ ("/Users/p/dev-tools-functions/config/zsh/.zsh/" (22045 15243 0 0) "zsh-git-prompt/" "z.zsh" "z" "prompt.zsh" "platform/" "path.zsh" "opts.zsh" "kbd.zsh" "fns.zsh" "envars.zsh" "dirhist/" "completions/" "autoloads.zsh" "alias.zsh" "../" "./")
+
+ ("/Users/p/dev-tools-functions/" (21881 52214 0 0) "todo" "resource/" "README.md" "Dockerfile" "config/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/p/dev-tools-functions/config/clj/" (22045 10942 0 0) "scratch/" "dependencies/" ".lein/" ".boot/" "../" "./")
+
+ ("/Users/p/dev-tools-functions/config/" (21890 38498 0 0) "zsh/" "tmux/" "go/" "git/" "emacs/" "clj/" "../" "./")
+
+ ("/Users/p/dev/" (22037 39934 0 0) "src/" "build.boot" ".nrepl-port" ".git/" "../" "./")
+
+ ("/Users/p/dtf/config/zsh/.zsh/" (22037 39628 0 0) "zsh-git-prompt/" "z.zsh" "z" "prompt.zsh" "platform/" "path.zsh" "opts.zsh" "kbd.zsh" "fns.zsh" "envars.zsh" "dirhist/" "completions/" "autoloads.zsh" "alias.zsh" "../" "./")
+
+ ("/Users/p/.zsh/" (22037 39628 0 0) "zsh-git-prompt/" "z.zsh" "z" "prompt.zsh" "platform/" "path.zsh" "opts.zsh" "kbd.zsh" "fns.zsh" "envars.zsh" "dirhist/" "completions/" "autoloads.zsh" "alias.zsh" "../" "./")
+
+ ("/Users/p/dev/src/" (22037 39761 0 0) "../" "./")
+
+ ("/Users/p/aws/" (22036 10791 0 0) "target/" "build.boot" ".nrepl-port" ".nrepl-history" ".git/" "../" "./")
+
+ ("/Users/p/.emacs.d/config/" (22036 10501 0 0) "yaml-config.el" "windmove-config.el" "undo-tree-config.el" "theme-config.el" "smex-config.el" "registers-config.el" "recentf-config.el" "rainbow-delimiters-config.el" "projectile-config.el" "phi-config.el" "pbcopy.el" "paredit-config.el" "neo-tree-config.el" "multiple-cursors-config.el" "mouse-config.el" "mode-line-config.el" "minibuffer-config.el" "markdown-config.el" "magit-config.el" "kill-ring-config.el" "kbd-config.el" "ido-config.el" "hooks-config.el" "guide-key-config.el" "golden-ratio-config.el" "go-mode-config.el" "general-config.el" "fns.el" "find-dired-config.el" "expand-region-config.el" "exec-path-from-shell-config.el" "emamux-config.el" "eldoc-config.el" "dockerfile-config.el" "discover-config.el" "dired-config.el" "company-config.el" "clojure-config.el" "automode-config.el" "aggressive-indent-config.el" "ace-jump-zap-config.el" "ace-jump-config.el" "../" "./")
+
+ ("/Users/p/dtf/config/emacs/.emacs.d/config/" (22036 10501 0 0) "yaml-config.el" "windmove-config.el" "undo-tree-config.el" "theme-config.el" "smex-config.el" "registers-config.el" "recentf-config.el" "rainbow-delimiters-config.el" "projectile-config.el" "phi-config.el" "pbcopy.el" "paredit-config.el" "neo-tree-config.el" "multiple-cursors-config.el" "mouse-config.el" "mode-line-config.el" "minibuffer-config.el" "markdown-config.el" "magit-config.el" "kill-ring-config.el" "kbd-config.el" "ido-config.el" "hooks-config.el" "guide-key-config.el" "golden-ratio-config.el" "go-mode-config.el" "general-config.el" "fns.el" "find-dired-config.el" "expand-region-config.el" "exec-path-from-shell-config.el" "emamux-config.el" "eldoc-config.el" "dockerfile-config.el" "discover-config.el" "dired-config.el" "company-config.el" "clojure-config.el" "automode-config.el" "aggressive-indent-config.el" "ace-jump-zap-config.el" "ace-jump-config.el" "../" "./")
+
+ ("/Users/p/work/" (22030 51788 0 0) "systems/" ".git/" "../" "./")
+
+ ("/Users/p/kubernetes/cluster/" (22026 55423 0 0) "vsphere/" "validate-cluster.sh" "vagrant/" "update-storage-objects.sh" "ubuntu/" "test-smoke.sh" "test-network.sh" "test-e2e.sh" "saltbase/" "README.md" "rackspace/" "ovirt/" "options.md" "mesos/" "libvirt-coreos/" "kubemark/" "kubectl.sh" "kube-util.sh" "kube-up.sh" "kube-push.sh" "kube-env.sh" "kube-down.sh" "juju/" "images/" "gke/" "get-kube.sh" "gce/" "common.sh" "centos/" "azure/" "aws/" "addons/" "../" "./")
+
+ ("/Users/p/api-gateway/" (22037 32640 0 0) "../" "./")
+
+ ("/Users/p/events/" (22029 40511 0 0) "WALKTHROUGH.md" "test/" "target/" "src/" "script/" "resources/" "README.md" "project.clj" "onyx.log" "LICENSE" "env/" "Dockerfile" ".lein-repl-history" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/p/events/src/onyx_starter/lifecycles/" (21988 27180 0 0) "sample_lifecycle.clj" "../" "./")
+
+ ("/Users/p/events/src/onyx_starter/flow_conditions/" (21988 27180 0 0) "sample_flow_conditions.clj" "../" "./")
+
+ ("/Users/p/events/src/onyx_starter/catalogs/" (21988 27180 0 0) "sample_catalog.clj" "../" "./")
+
+ ("/Users/p/events/src/onyx_starter/launcher/" (21988 28568 0 0) "submit_sample_job.clj" "dev_system.clj" "../" "./")
+
+ ("/Users/p/dtf/config/clj/.lein/" (21988 27911 0 0) "self-installs/" "profiles.clj" "../" "./")
+
+ ("/Users/p/events/src/onyx_starter/" (21988 27180 0 0) "workflows/" "lifecycles/" "launcher/" "functions/" "flow_conditions/" "catalogs/" "../" "./")
+
+ ("/Users/p/events/src/" (21988 27180 0 0) "onyx_starter/" "../" "./")
+
+ ("/Users/p/work/build/" (21890 41601 0 0) "tasks/" "specifications/" "resources/" "environments/" "dependecies/" "../" "./")
+
+ ("/Users/p/drilling/" (21988 22860 0 0) "electron/" "cljs-electron/" "../" "./")
+
+ ("/Users/p/drilling/cljs-electron/" (21988 23440 0 0) "target/" "src/" "resources/" "README.md" "project.clj" "Procfile" "package.json" "figwheel_server.log" "demo.gif" "b06e905da46f94a00e612a4d4c24a7f5024e9356-init.clj" "66a1813bab84c77f9e878cbec3ab145ab034aaa0-init.clj" ".nrepl-port" ".gitignore" ".git/" ".#project.clj" "../" "./")
+
+ ("/Users/p/dtf/config/emacs/.emacs.d/" (21966 24654 0 0) "tramp" "snippets/" "smex-items" "recentf" "projectile-bookmarks.eld" "init.el~" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "config/" "Cask" "backups/" "auto-save-list/" ".workgroups" ".smex-items" ".savehist" ".mc-lists.el" ".cask/" "%backup%~" "../" "./")
+
+ ("/Users/p/july/mp/" (21914 47761 0 0) "06" "05" "04" "03" "02" "01" "../" "./")
+
+ ("/Users/p/100/mp/" (21971 16275 0 0) "../" "./")
+
+ ("/Users/p/work/code/src/" (21890 44662 0 0) "../" "./")
+
+ ("/Users/p/july/habits/" (21909 28410 0 0) "walking" "no-tobacco" "no-alcohol" "morning-pages" "exercise" "cold-shower" "clean-kitchen" "../" "./")
+
+ ("/Users/p/july/todo/" (21909 26984 0 0) "02" "01" "../" "./")
+
+ ("/Users/p/july/work/" (21909 29953 0 0) "notes" "../" "./")
+
+ ("/Users/p/july/" (21913 33313 0 0) "work/" "todo/" "notes/" "mp/" "habits/" "fiction/" "../" "./")
+
+ ("/Users/p/july/notes/" (21910 51404 0 0) "03" "02" "../" "./")
+
+ ("/Users/p/july/fiction/" (21913 33313 0 0) "../" "./")
+
+ ("/Users/p/drilling/be/" (21908 11763 0 0) "src/" "resources/" "build.boot" ".nrepl-history" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/p/drilling/be/src/" (21897 57891 0 0) "schemas/" "datoms/" "core.clj" "../" "./")
+
+ ("/Users/p/drilling/be/resources/datoms/" (21908 11764 0 0) "something.edn" "../" "./")
+
+ ("/Users/p/drilling/be/resources/" (21897 55707 0 0) "datoms/" "../" "./")
+
+ ("/Users/p/drilling/be/src/datoms/" (21897 55314 0 0) "y.edn" "y/" "../" "./")
+
+ ("/Users/p/drilling/be/src/datoms/y/" (21897 55167 0 0) "collection.edn" "collection/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

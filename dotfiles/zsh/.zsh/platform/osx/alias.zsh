@@ -1,0 +1,1 @@
+alias platform='echo osx'

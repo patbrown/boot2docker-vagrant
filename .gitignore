@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io
 
-/PRIVATE/*
-/config/tmux/.tmux/plugins/**
+# Private details
+dotfiles/PRIVATE/*
 
 ### OSX ###
 .DS_Store
@@ -44,6 +44,8 @@ pom.xml.asc
 .nrepl-port
 */.boot/tmp
 */.boot/cache
+dotfiles/clj/.boot/tmp
+dotfiles/clj/.boot/cache
 
 # Created by https://www.gitignore.io
 

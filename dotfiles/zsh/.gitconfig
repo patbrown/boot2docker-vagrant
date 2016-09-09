@@ -1,0 +1,78 @@
+[alias]
+a = add
+amend = commit --amend
+ap = add --patch
+b = branch -v
+brief = log --pretty=format:\"%h %cr %cn %Cgreen%s%Creset\"
+c = commit -m
+ca = commit -am
+changelog = log --pretty=format:\" * %s\"
+changes = log --pretty=format:\"%h %cr %cn %Cgreen%s%Creset\" --name-status
+close = git branch -D
+co = checkout
+cp = cherry-pick -x
+d = diff
+dc = diff --cached
+dl = diff HEAD^
+filelog = log -u
+ign = ls-files -o -i --exclude-standard
+l = log --graph --date=short
+lg = log -p
+lol = log --graph --decorate --pretty=oneline --abbrev-commit
+lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+ls = ls-files
+mt = mergetool
+nb = checkout -b
+rc = rebase --continue
+re = remote -v
+rs = rebase --skip
+s = status
+save = stash save
+t = tag -l
+unstage = reset HEAD
+uncommit = reset --soft HEAD^
+
+[color]
+branch = auto
+diff = auto
+status = auto
+ui = auto
+[color "branch"]
+current = yellow reverse
+local = blue
+remote = green
+[color "diff"]
+meta = yellow bold
+frag = magenta bold
+old = red bold
+new = green bold
+whitespace = red bold reverse
+[color "status"]
+added = yellow bold
+changed = red bold
+untracked = cyan
+nobranch = red
+header = green
+[core]
+excludesfile = ~/.gitignore
+autocrlf = false
+editor = emacsclient
+               
+[diff]
+mnemonicprefix = true
+
+[help]
+autocorrect = 1
+
+[merge]
+summary=true
+verbosity = 1
+
+[push]
+default = matching
+
+[advice]
+statusHints = false
+
+[include]
+path = ~/.gitsecret
